@@ -19,9 +19,8 @@ Set-ExecutionPolicy RemoteSigned
 1. Clone or download this repository to your local machine.
 2. Modify the script variables `$csvPath` and `$outputFile` within each script to match the path to your CSV file and the desired path for the output file.
 3. Open PowerShell, navigate to the script's directory, and run the script using:
-
-```powershell
 .\ScriptName.ps1
+
 Replace `ScriptName.ps1` with the actual script name you wish to run.
 
 ## 📋 Requirements
