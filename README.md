@@ -1,4 +1,3 @@
-```
 # Email Domain Filter Scripts
 
 This repository contains two PowerShell scripts that allow you to filter email addresses from a CSV file based on the domain. These scripts are perfect for managing large lists of email addresses by segregating them according to specific domain criteria.
@@ -15,8 +14,6 @@ Ensure your execution policy permits the execution of scripts. You might need to
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned
-```
-
 ### Steps to Run Scripts
 
 1. Clone or download this repository to your local machine.
