@@ -12,8 +12,8 @@ This repository contains two PowerShell scripts that allow you to filter email a
 ### Prerequisites
 Ensure your execution policy permits the execution of scripts. You might need to run the following command in an elevated PowerShell prompt:
 
-```powershell
 Set-ExecutionPolicy RemoteSigned
+
 ### Steps to Run Scripts
 
 1. Clone or download this repository to your local machine.
@@ -22,7 +22,6 @@ Set-ExecutionPolicy RemoteSigned
 
 ```powershell
 .\ScriptName.ps1
-```
 Replace `ScriptName.ps1` with the actual script name you wish to run.
 
 ## 📋 Requirements
